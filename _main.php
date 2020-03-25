@@ -14,29 +14,29 @@
   <link rel="stylesheet" href="css/main.css">
 </head>
 
-<body>
+<body id="html-body">
   <!--[if IE]>
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
 
   <!-- Add your site or application content here -->
-  <header>
+  <header id="masthead">
   </header>
   
-  <section class="navigation-bar">
+  <section id="top-nav" class="navigation-bar">
   </section>
   
-  <section class="content">
+  <section id="content">
   
-    <main>
+    <main id="main-content">
     </main>
     
-    <aside>
+    <aside id="sidebar">
     </aside>
     
   </section>
   
-  <footer>
+  <footer id="footer">
   </footer>
 
   <!-- scripts -->
